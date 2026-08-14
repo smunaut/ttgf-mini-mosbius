@@ -1,0 +1,244 @@
+magic
+tech gf180mcuD
+magscale 1 5
+timestamp 1786457122
+<< error_s >>
+rect 0 462 14 490
+<< via1 >>
+rect 261 760 339 808
+rect 463 687 489 713
+rect 2479 687 2505 713
+rect 1639 575 1665 601
+rect 1919 575 1945 601
+rect 3655 575 3681 601
+rect 3935 575 3961 601
+rect 127 463 153 489
+rect 2143 463 2169 489
+rect 151 368 229 416
+rect 407 295 433 321
+rect 911 295 937 321
+rect 1359 239 1385 265
+rect 519 183 545 209
+rect 1023 183 1049 209
+rect 1919 127 1945 153
+rect 239 71 265 97
+rect 743 71 769 97
+rect 261 -24 339 24
+<< metal2 >>
+rect 260 809 340 814
+rect 260 754 340 759
+rect 457 713 6538 714
+rect 457 687 463 713
+rect 489 687 2479 713
+rect 2505 687 6538 713
+rect 457 686 6538 687
+rect 1862 630 7938 658
+rect 1862 602 1890 630
+rect 3878 602 3906 630
+rect 1633 601 1694 602
+rect 1633 575 1639 601
+rect 1665 575 1694 601
+rect 1633 574 1694 575
+rect 1722 574 1727 602
+rect 1862 601 1951 602
+rect 1862 575 1919 601
+rect 1945 575 1951 601
+rect 1862 574 1951 575
+rect 3649 601 3710 602
+rect 3649 575 3655 601
+rect 3681 575 3710 601
+rect 3649 574 3710 575
+rect 3738 574 3743 602
+rect 3878 601 3967 602
+rect 3878 575 3935 601
+rect 3961 575 3967 601
+rect 3878 574 3967 575
+rect 0 462 14 490
+rect 42 462 47 490
+rect 121 489 462 490
+rect 121 463 127 489
+rect 153 463 462 489
+rect 121 462 462 463
+rect 490 462 495 490
+rect 1073 462 1078 490
+rect 1106 462 1694 490
+rect 1722 489 2175 490
+rect 1722 463 2143 489
+rect 2169 463 2175 489
+rect 1722 462 2175 463
+rect 3705 462 3710 490
+rect 3738 462 4032 490
+rect 150 417 230 422
+rect 150 362 230 367
+rect 401 321 4970 322
+rect 401 295 407 321
+rect 433 295 911 321
+rect 937 295 4970 321
+rect 401 294 4970 295
+rect 9 238 14 266
+rect 42 265 1391 266
+rect 42 239 1359 265
+rect 1385 239 1391 265
+rect 42 238 1391 239
+rect 457 182 462 210
+rect 490 209 551 210
+rect 490 183 519 209
+rect 545 183 551 209
+rect 490 182 551 183
+rect 1017 209 1078 210
+rect 1017 183 1023 209
+rect 1049 183 1078 209
+rect 1017 182 1078 183
+rect 1106 182 1111 210
+rect 518 154 546 182
+rect 518 153 1951 154
+rect 518 127 1919 153
+rect 1945 127 1951 153
+rect 518 126 1951 127
+rect 233 97 574 98
+rect 233 71 239 97
+rect 265 71 574 97
+rect 233 70 574 71
+rect 602 70 607 98
+rect 681 70 686 98
+rect 714 97 775 98
+rect 714 71 743 97
+rect 769 71 775 97
+rect 714 70 775 71
+rect 260 25 340 30
+rect 260 -30 340 -25
+rect 0 -88 4032 -60
+rect 0 -144 4032 -116
+rect 0 -256 4032 -200
+<< via2 >>
+rect 260 808 340 809
+rect 260 760 261 808
+rect 261 760 339 808
+rect 339 760 340 808
+rect 260 759 340 760
+rect 1694 574 1722 602
+rect 3710 574 3738 602
+rect 14 462 42 490
+rect 462 462 490 490
+rect 1078 462 1106 490
+rect 1694 462 1722 490
+rect 3710 462 3738 490
+rect 150 416 230 417
+rect 150 368 151 416
+rect 151 368 229 416
+rect 229 368 230 416
+rect 150 367 230 368
+rect 14 238 42 266
+rect 462 182 490 210
+rect 1078 182 1106 210
+rect 574 70 602 98
+rect 686 70 714 98
+rect 260 24 340 25
+rect 260 -24 261 24
+rect 261 -24 339 24
+rect 339 -24 340 24
+rect 260 -25 340 -24
+<< metal3 >>
+rect 260 809 340 814
+rect 260 754 340 759
+rect 14 490 42 495
+rect 14 266 42 462
+rect 462 490 490 495
+rect 150 417 230 422
+rect 150 362 230 367
+rect 14 233 42 238
+rect 462 210 490 462
+rect 462 177 490 182
+rect 574 98 602 882
+rect 574 65 602 70
+rect 686 98 714 882
+rect 1694 602 1722 607
+rect 1078 490 1106 495
+rect 1078 210 1106 462
+rect 1694 490 1722 574
+rect 1694 457 1722 462
+rect 3710 602 3738 607
+rect 3710 490 3738 574
+rect 3710 457 3738 462
+rect 1078 177 1106 182
+rect 686 65 714 70
+rect 260 25 340 30
+rect 260 -30 340 -25
+<< via3 >>
+rect 260 759 340 809
+rect 150 367 230 417
+rect 260 -25 340 25
+<< metal4 >>
+rect 150 417 230 814
+rect 150 -30 230 367
+rect 260 809 340 814
+rect 260 25 340 759
+rect 260 -30 340 -25
+use gf180mcu_fd_sc_mcu7t5v0__and2_2  gf180mcu_fd_sc_mcu7t5v0__and2_2_0 $PDKPATH/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+timestamp 1785844050
+transform -1 0 616 0 1 0
+box -43 -43 547 435
+use gf180mcu_fd_sc_mcu7t5v0__and2_2  gf180mcu_fd_sc_mcu7t5v0__and2_2_1
+timestamp 1785844050
+transform -1 0 1120 0 1 0
+box -43 -43 547 435
+use gf180mcu_fd_sc_mcu7t5v0__dffrnq_1  gf180mcu_fd_sc_mcu7t5v0__dffrnq_1_0 $PDKPATH/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+timestamp 1785844050
+transform -1 0 2016 0 -1 784
+box -43 -43 1947 435
+use gf180mcu_fd_sc_mcu7t5v0__dffrnq_1  gf180mcu_fd_sc_mcu7t5v0__dffrnq_1_1
+timestamp 1785844050
+transform -1 0 4032 0 -1 784
+box -43 -43 1947 435
+use gf180mcu_fd_sc_mcu7t5v0__dlyb_2  gf180mcu_fd_sc_mcu7t5v0__dlyb_2_0 $PDKPATH/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+timestamp 1785844050
+transform -1 0 2240 0 1 0
+box -43 -43 1051 435
+use gf180mcu_fd_sc_mcu7t5v0__fill_2  gf180mcu_fd_sc_mcu7t5v0__fill_2_0 $PDKPATH/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+timestamp 1785844050
+transform 1 0 3808 0 1 0
+box -43 -43 155 435
+use gf180mcu_fd_sc_mcu7t5v0__fillcap_4  gf180mcu_fd_sc_mcu7t5v0__fillcap_4_0 $PDKPATH/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+timestamp 1785844050
+transform 1 0 3584 0 1 0
+box -43 -43 267 435
+use gf180mcu_fd_sc_mcu7t5v0__fillcap_8  gf180mcu_fd_sc_mcu7t5v0__fillcap_8_0 $PDKPATH/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+timestamp 1785844050
+transform 1 0 2240 0 1 0
+box -43 -43 491 435
+use gf180mcu_fd_sc_mcu7t5v0__fillcap_8  gf180mcu_fd_sc_mcu7t5v0__fillcap_8_1
+timestamp 1785844050
+transform 1 0 2688 0 1 0
+box -43 -43 491 435
+use gf180mcu_fd_sc_mcu7t5v0__fillcap_8  gf180mcu_fd_sc_mcu7t5v0__fillcap_8_2
+timestamp 1785844050
+transform 1 0 3136 0 1 0
+box -43 -43 491 435
+use gf180mcu_fd_sc_mcu7t5v0__filltie  gf180mcu_fd_sc_mcu7t5v0__filltie_0 $PDKPATH/libs.ref/gf180mcu_fd_sc_mcu7t5v0/mag
+timestamp 1785844050
+transform 1 0 0 0 1 0
+box -43 -43 155 435
+use gf180mcu_fd_sc_mcu7t5v0__filltie  gf180mcu_fd_sc_mcu7t5v0__filltie_1
+timestamp 1785844050
+transform 1 0 1120 0 1 0
+box -43 -43 155 435
+use gf180mcu_fd_sc_mcu7t5v0__filltie  gf180mcu_fd_sc_mcu7t5v0__filltie_2
+timestamp 1785844050
+transform 1 0 3920 0 1 0
+box -43 -43 155 435
+use gf180mcu_fd_sc_mcu7t5v0__filltie  gf180mcu_fd_sc_mcu7t5v0__filltie_3
+timestamp 1785844050
+transform 1 0 0 0 -1 784
+box -43 -43 155 435
+use gf180mcu_fd_sc_mcu7t5v0__filltie  gf180mcu_fd_sc_mcu7t5v0__filltie_4
+timestamp 1785844050
+transform 1 0 2016 0 -1 784
+box -43 -43 155 435
+<< labels >>
+flabel metal4 150 -30 230 814 1 FreeSans 80 0 0 0 VDPWR
+port 1 n power input
+flabel metal4 260 -30 340 814 1 FreeSans 80 0 0 0 VGND
+port 0 n ground input
+<< properties >>
+string FIXED_BBOX 0 0 4032 784
+<< end >>

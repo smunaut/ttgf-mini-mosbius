@@ -1,0 +1,41 @@
+magic
+tech gf180mcuD
+magscale 1 10
+timestamp 1786699268
+<< error_s >>
+rect 0 924 28 980
+<< metal3 >>
+rect 923 1875 1428 1943
+rect 8987 1875 9492 1943
+rect 1372 1764 1428 1875
+rect 9436 1764 9492 1875
+<< metal4 >>
+rect 300 7718 460 20600
+rect 520 7718 680 20600
+rect 740 7718 900 20600
+rect 8364 7718 8524 20600
+rect 8584 7718 8744 20600
+rect 8804 7718 8964 20600
+rect 300 1628 460 1668
+rect 520 1628 680 1668
+rect 740 -60 900 1668
+rect 8364 1628 8524 1668
+rect 8584 1628 8744 1668
+rect 8804 -60 8964 1668
+use asw_5v0  asw_5v0_0
+array 0 1 8064 0 0 -97
+timestamp 1786359567
+transform 1 0 0 0 -1 7718
+box -20 -20 8084 6070
+use dev_ctrl_b1  dev_ctrl_b1_0
+timestamp 1786457006
+transform 1 0 8064 0 1 0
+box -86 -512 8150 1764
+use dev_ctrl_e1  dev_ctrl_e1_0
+timestamp 1786457110
+transform 1 0 0 0 1 0
+box -86 -512 15876 1764
+<< properties >>
+string FIXED_BBOX 0 0 16128 20600
+string MASKHINTS_DUALGATE 1254 1624 8020 1675 9318 1624 16084 1675
+<< end >>
